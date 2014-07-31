@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">FedEx</string>
+    <string name="action_reload">Recargar</string>
+    <string name="loading_please_wait">Cargando. Espere, por favor&#8230;</string>
+    <string name="information">Información</string>
+    <string name="products">Productos</string>
+    <string name="airplanes">Aviones</string>
+    <string name="kilograms">kg</string>
+
+</resources>
